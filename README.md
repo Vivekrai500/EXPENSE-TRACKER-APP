@@ -1,18 +1,20 @@
 # Expense Tracker Application
 
+"COMPANY" : CODTECH IT SOLUTIONS
+
+"NAME" : VIVEK KUMAR RAI
+
+"INTERN ID" : CT06DK725
+
+"DOMAIN" : ANDROID DEVELOPMENT
+
+"DURATION" : 6 WEEKS
+
+"MENTOR" : NEELA SANTOSH
+
 This is a native android application built with Jetpack Compose to manage the users expenses and transactions
 and visualizes the data in a bar and pie chart.The app is completely offline and all the data is in 
 a room database so no need for internet connection
-
-Currently available on the Play Store
-
-<a href='https://play.google.com/store/apps/details?id=com.vivek.expensetrackerapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
-
-
-## Screenshots of the app
-<img src="screenshots/screenshot7.png" width="250"/> <img src="screenshots/screenshot2.png" width="250"/> <img src="screenshots/screenshot3.png" width="250"/>
-
-<img src="screenshots/screenshot4.png" width="250"/><img src="screenshots/screenshot5.png" width="250"/><img src="screenshots/screenshot6.png" width="250"/>
 
 # Tech Stack.
 This project uses many of the popular libraries, plugins and tools of the android ecosystem.
@@ -34,5 +36,6 @@ This project uses many of the popular libraries, plugins and tools of the androi
 - [Material Design](https://material.io/develop/android/docs/getting-started/) - Build awesome beautiful UIs.
 - [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library Support for coroutines,provides runBlocking coroutine builder used in tests.
 
-## Extras
-- [GitHub Actions](https://github.com/chege4179/ExpenseTrackerApp/actions) - GitHub actions is used in this project to  deploy the apk using [Firebase App Distribution](https://firebase.google.com/docs/app-distribution) when pushing changes to the dev branch or when making a pull request to the main branch.
+OUTPUT
+
+
