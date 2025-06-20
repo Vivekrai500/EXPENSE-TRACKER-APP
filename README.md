@@ -38,4 +38,12 @@ This project uses many of the popular libraries, plugins and tools of the androi
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/f26a6c6e-c6f6-4bdd-93d0-d5d0124ff441)
+![Image](https://github.com/user-attachments/assets/26684805-0456-4e26-bde1-a3dd94a09eb1)
+![Image](https://github.com/user-attachments/assets/68e77cd3-0762-457f-8b49-818e67eec172)
+![Image](https://github.com/user-attachments/assets/8f698923-3657-423c-ae67-7a7b15f7f552)
+![Image](https://github.com/user-attachments/assets/189ac27a-db01-4d56-aa60-68c4cf176743)
+![Image](https://github.com/user-attachments/assets/8b079b70-dc5a-4a69-a2fd-1e50a36ae06f)
+![Image](https://github.com/user-attachments/assets/7e6e6ee1-a425-4761-9d70-58d242857b99)
+
 
