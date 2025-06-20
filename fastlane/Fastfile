@@ -1,0 +1,24 @@
+
+default_platform(:android)
+
+platform :android do
+  desc "Run Unit and Instrumented Test"
+  lane :test do
+    gradle(task: "test")
+
+  end
+
+  desc "Build App and submit to Firebase App Distribution"
+  lane :beta do
+    gradle(task: "clean assembleRelease")
+    gradle(task: "bundleRelease")
+  
+
+  end
+
+  desc "Deploy a new version to the Google Play"
+  lane :deploy do
+    gradle(task: "clean assembleRelease")
+    upload_to_play_store
+  end
+end

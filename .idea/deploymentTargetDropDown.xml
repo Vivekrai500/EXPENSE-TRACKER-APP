@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="OnboardingBaselineProfileGenerator">
+        <State />
+      </entry>
+      <entry key="StartUpBaselineProfileGenerator">
+        <State />
+      </entry>
+      <entry key="StartupBenchmark">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <runningDeviceTargetsSelectedWithDialog>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Administrator\.android\avd\Pixel_7_Pro_API_31.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="04733339A0140113" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetsSelectedWithDialog>
+        </State>
+      </entry>
+      <entry key="generate() (1)">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
